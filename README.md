@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @gurudadhich
+- 👀 I’m interested in developement. i am a learner and always excited to share my learning to others.
+- 🌱 I’m currently learning web developement, python, django framework and Rest API.
+- 💞️ I’m looking to collaborate our thoughts on developing surrounded in programming.
