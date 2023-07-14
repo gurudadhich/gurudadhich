@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @gurudadhich
 - 👀 I’m interested in developement. i am a learner and always excited to share my learning to others.
-- 🌱 I’m currently learning web developement, python, django framework and Rest API.
-- 💞️ I’m looking to collaborate our thoughts on developing surrounded in programming.
+- 🌱 I’m currently working and learning web and app developement with python-django ,goLang, flutter and Rest APIs.
+- 💞️ I'm explorer and like to explore, trekking, travelling and writing poetries and qoutes.
